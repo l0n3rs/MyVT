@@ -1,0 +1,11 @@
+﻿  Building 'VtStu' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DriverEntry.cpp
+  Ept.cpp
+  InitVMCS.cpp
+  MyVT.cpp
+  VmExitHandler.cpp
+  正在生成代码...
+  VtStu.vcxproj -> E:\Study\VT\VtStu\x64\Debug\VtStu.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Study\VT\VtStu\x64\Debug\VtStu.sys
+  

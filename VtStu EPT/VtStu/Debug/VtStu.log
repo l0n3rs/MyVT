@@ -1,0 +1,5 @@
+﻿  Building 'VtStu' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+cl : 命令行 warning D9024: 无法识别的源文件类型“def.h”，假定为对象文件
+cl : 命令行 warning D9027: 源文件“def.h”被忽略
+  DriverEntry.cpp
+LINK : fatal error LNK1181: 无法打开输入文件“Debug\def.obj”
